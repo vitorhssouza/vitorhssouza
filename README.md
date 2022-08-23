@@ -15,3 +15,5 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"/>
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
+
+Sou fascinado por tecnologia, apaixonado pela linguagem python e entusiasta em dados.
