@@ -18,4 +18,4 @@
 
 
 
-######Sou fascinado por tecnologia, apaixonado pela linguagem python e entusiasta em dados.
+#####Sou fascinado por tecnologia, apaixonado pela linguagem python e entusiasta em dados.
